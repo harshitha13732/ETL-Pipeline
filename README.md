@@ -35,4 +35,4 @@ An ETL pipeline saves time, improves data quality, and removes repetitive manual
 In short, the ETL pipeline is the unsung hero of data science. Without it, even the best machine learning models won’t perform well, because messy data leads to poor results. But with ETL, data becomes structured, reliable, and ready to drive insights.
 
 
-*OUTPUT*: 
+*OUTPUT*: <img width="1816" height="735" alt="Image" src="https://github.com/user-attachments/assets/43fb3ef0-5158-4bfa-898b-f72f9e65443d" />
